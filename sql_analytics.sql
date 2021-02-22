@@ -1,5 +1,5 @@
 --
--- SQL challenge
+-- sql-analytics
 -- =============
 --
 -- 1. A view which provides the following information for each individual apprentice as of the last day of each month during their apprenticeship
@@ -1414,5 +1414,5 @@ INTO TEMPORARY TABLE staging_two
 FROM two_final;
 
 -- show final outputs
-SELECT * FROM staging_one limit 15;
+SELECT * FROM staging_one;
 SELECT * FROM staging_two;

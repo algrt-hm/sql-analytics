@@ -1,6 +1,6 @@
 # SQL analytics
 
-This repo shows analytics using pure SQL only. 
+This repo shows analytics using SQL only. 
 
  - The output could be used directly in dashboarding/data viz software such as Tableau
  - There are some advantages to a pure-SQL solution particularly for a smaller organisation; if a view is queried data is from tables that are used operationally, which will always be up to date
